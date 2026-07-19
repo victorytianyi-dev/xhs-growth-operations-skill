@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书增长运营助手"
+  short_description: "每天用真实数据迭代一篇图文，并在发布前交给人工审核"
+  default_prompt: "Use $xhs-growth-operations to review the previous post, prepare only today's Xiaohongshu image-post draft, and stop before final publication."
